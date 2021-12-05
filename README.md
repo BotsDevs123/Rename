@@ -1,6 +1,6 @@
 # PrivateAutoCaption
 Telegram PrivateAutoCaption © @Mo_Tech_YT
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FBotsDevs123%2FPrivateAutoCaption&envs=MT_BOT_TOKEN%2CAPP_ID%2CAPI_HASH&MT_BOT_TOKENDesc=Jsjs&APP_IDDesc=Nnb&API_HASHDesc=Nb&referralCode=MoTech)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FBotsDevs123%2FRename&envs=MT_BOT_TOKEN%2CAPP_ID%2CAPI_HASH&MT_BOT_TOKENDesc=Jsjs&APP_IDDesc=Nnb&API_HASHDesc=Nb&referralCode=MoTech)
   </a>
 </p>
 <p align="center">
